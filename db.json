@@ -1,3 +1,9 @@
 {
-  "TUA": "AXIOS-3"
+<<<<<<< HEAD
+  "fuad": 2
+=======
+  "TUA": "AXIOS-3",
+  "astronom": "alper",
+  "full": true
+>>>>>>> budaq-1
 }
